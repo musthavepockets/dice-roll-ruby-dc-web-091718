@@ -8,5 +8,5 @@ end
 
 array = [ 1, 2, 3, 4, 5, 6]
 def roll(array)
-  sample.array
+  array.sample
 end
