@@ -4,5 +4,7 @@
 
 array = [ 1, 2, 3, 4, 5, 6]
 def roll(array)
-  "#{array.sample}"
+  array.sample
 end
+
+roll(array)
